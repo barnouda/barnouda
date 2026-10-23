@@ -1,15 +1,17 @@
-## Hi there 👋! Here is an overview of what you can find on my github page.
+## Hi there 👋!
+
+My codes are now hosted on Codeberg: https://codeberg.org/barnouda
 
 ### Modelling and inversion codes for gravimetric, magnetic and muographic data
 
-- gramag : modelling of gravimetric and magnetic data
-- panda : modelling of muographic data
+- GraMag : modelling of gravimetric and magnetic data
+- PANDA : modelling of muographic data
 - inversion codes coming soon
 
 ### Utilities
 
-- pyfomac : cheat sheet highlighting differences between Python, Fortran, Matlab and C programming language to help juggling between them
-- rac : tool to handle accents in LaTeX and bibtex files when suitable encoding is not available
+- PyFoMaC : cheat sheet highlighting differences between Python, Fortran, Matlab and C programming language to help juggling between them
+- RAC : tool to handle accents in LaTeX and bibtex files when suitable encoding is not available
 
 ### Contact
 
