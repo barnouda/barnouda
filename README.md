@@ -1,19 +1,20 @@
-## Hi there 👋!
+## Hi there!
 
 My codes are now hosted on Codeberg: https://codeberg.org/barnouda
 
-### Modelling and inversion codes for gravimetric, magnetic and muographic data
+### 🌋 Modelling and inversion codes for gravimetric, magnetic and muographic data
 
 - GraMag : modelling of gravimetric and magnetic data
 - PANDA : modelling of muographic data
-- inversion codes coming soon
+- BIG BIM : Bayesian linear inversion of gravimetric and magnetic data
+- GREMLIN : Joint Bayesian linversion of gravimetric and muographic data
 
-### Utilities
+### ✏️ Utilities
 
 - PyFoMaC : cheat sheet highlighting differences between Python, Fortran, Matlab and C programming language to help juggling between them
 - RAC : tool to handle accents in LaTeX and bibtex files when suitable encoding is not available
 
-### Contact
+### ✉️ Contact
 
 Should you have any question, please feel free to contact me at anne.barnoud at gmail.com.
 
